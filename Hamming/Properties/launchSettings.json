@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hamming": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Windows\\WinSxS\\wow64_microsoft-windows-commandprompt_31bf3856ad364e35_10.0.17134.1_none_7ae1fd66b7e7b154\\cmd.exe"
+    }
+  }
+}
