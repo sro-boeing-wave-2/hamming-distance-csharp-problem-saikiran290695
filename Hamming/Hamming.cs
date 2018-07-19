@@ -15,7 +15,7 @@ namespace Hamming
             {
                 throw new ArgumentNullException("current");
             }
-            else if (original.Length != current.Length)
+            else if (original.Length !=  current.Length)
             {
                 throw new ArgumentException("Hamming Distance can only be calculated over strings of equal length");
             }
